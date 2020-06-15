@@ -19,3 +19,8 @@ p#featured-property {
 #details > div{
   float: left;
 }
+div {
+  background-color: white;
+  text-align: center;
+  
+}
