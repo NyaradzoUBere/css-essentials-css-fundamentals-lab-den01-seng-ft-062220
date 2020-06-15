@@ -4,12 +4,12 @@ body {
   margin: 0;
 }
 header {
-  text-align: : center;
+  text-align: center;
 }
 img {
   align-content: center;
 }
-p#featured-property {
+#featured-property {
   text-align: center;
   width: 800px;
 }
